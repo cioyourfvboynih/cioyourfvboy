@@ -1,5 +1,7 @@
 # Hallo👋 , Nama Saya Ramadhani || Ram!
 
+# Umur saya 19 tahun, Asal Jakarta.
+
 ### Tools:
 <p>
    <a href="https://github.com/ramadhani892/RAM-UBOT" target="blank"><img src="https://img.shields.io/badge/RAM-UBOT-30302f?style=flat&logo=github" /></a>
