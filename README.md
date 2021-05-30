@@ -4,9 +4,11 @@
 
 ### Tools:
 <p>
-   <a href="https://github.com/ramadhani892/RAM-UBOT" target="blank"><img src="https://img.shields.io/badge/RAM-UBOT-30302f?style=flat&logo=github" /></a>
-   <a href="https://t.me/teman_random" target="blank"><img src="https://img.shields.io/badge/TEMAN-RANDOM-green?style=flat&logo=telegram" /></a>
+    <a href="https://github.com/ramadhani892/RAM-UBOT" target="blank"><img src="https://img.shields.io/badge/RAM-UBOT-30302f?style=flat&logo=github" /></a>
+    <a href="https://t.me/teman_random" target="blank"><img src="https://img.shields.io/badge/TEMAN-RANDOM-green?style=flat&logo=telegram" /></a>
     <a href="https://t.me/geezsupportgroup" target="blank"><img src="https://img.shields.io/badge/GEEZ-SUPPORT GROUP-black?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/maafgausahsokap" target="blank"><img src="https://img.shields.io/badge/Rama-30302f?style=flat&logo=telegram" /></a>
+    <a href="https://instagram.com/ramadh20" target="blank"><img src="https://img.shields.io/badge/@ramadh20-30302f?style=flat&logo=instagram" /></a>
 </p>
 
 ### Stats:
@@ -28,9 +30,4 @@
 
 </details>
 
-### Let's connect!
-<p>
-    <a href="https://t.me/maafgausahsokap" target="blank"><img src="https://img.shields.io/badge/Rama-30302f?style=flat&logo=telegram" /></a>
-    <a href="https://instagram.com/ramadh20" target="blank"><img src="https://img.shields.io/badge/@ramadh20-30302f?style=flat&logo=instagram" /></a>
-</p>
 
