@@ -38,6 +38,6 @@
 ![Metrics](https://metrics.lecoq.io/ramadhani892?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details>
-
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ramadhani892&repo=RAM-UBOT&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=ramadhani892&repo=GOKU&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=ramadhani892&repo=randombanget&theme=nightowl)
