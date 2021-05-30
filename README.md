@@ -39,4 +39,5 @@
 
 </details>
 
-
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ramadhani892&repo=GOKU&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ramadhani892&repo=randombanget&theme=nightowl)
