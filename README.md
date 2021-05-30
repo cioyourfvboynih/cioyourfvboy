@@ -1,4 +1,4 @@
-# Hallo👋 , Nama Saya Ramadhani || Rams!
+# Hallo👋 , Nama Saya Ramadhani || Ram!
 
 ### Tools:
 <p>
