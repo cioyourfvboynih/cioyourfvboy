@@ -2,11 +2,9 @@
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
+   <a href="https://github.com/ramadhani892/RAM-UBOT" target="blank"><img src="https://img.shields.io/badge/RAM-UBOT-30302f?style=flat&logo=github" /></a>
+   <a href="https://t.me/teman_random" target="blank"><img src="https://img.shields.io/badge/TEMAN-RANDOM-green?style=flat&logo=telegram" /></a>
+    <a href="https://t.me/geezsupportgroup" target="blank"><img src="https://img.shields.io/badge/GEEZ-SUPPORT GROUP-black?style=flat&logo=telegram" /></a>
 </p>
 
 ### Stats:
@@ -24,7 +22,7 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/vckyou?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/ramadhani892?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details>
 
