@@ -17,7 +17,7 @@
 
 # My instagram:
 
-[<img src="https://telegra.ph/file/f264274f7209f8d3a2416.jpg">](https://instagram.com/ramadh20)
+[<img src="https://telegra.ph/file/f264274f7209f8d3a2416.jpg">](https://www.instagram.com/ramadh20?r=nametag)
 
 
 ### Stats:
