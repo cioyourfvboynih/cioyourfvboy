@@ -39,6 +39,6 @@
 
 </details>
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=ramadhani892&repo=RAM-UBOT&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=ramadhani892&repo=ram-ubot&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=ramadhani892&repo=GOKU&theme=dark)
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=ramadhani892&repo=randombanget&theme=nightowl)
