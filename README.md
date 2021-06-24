@@ -20,7 +20,7 @@
 [<img src="https://telegra.ph/file/f264274f7209f8d3a2416.jpg">](https://www.instagram.com/ramadh20?r=nametag)
 
 
-## Quotes: "Mulut, Belom pernah di sumpel pake kontol itu, Lemes nya Na'udzubillah Wkwkwk, Gatau apa apa, Tapi Sok memgetahui Semuanya.
+## Quotes: "Mulut, Belom pernah di sumpel pake kontol itu, Lemes nya Na'udzubillah Wkwkwk, Gatau apa apa, Tapi Sok mengetahui Semuanya.
 
 ### Stats:
 <p>
