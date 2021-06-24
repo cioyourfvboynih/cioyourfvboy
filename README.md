@@ -20,8 +20,7 @@
 [<img src="https://telegra.ph/file/f264274f7209f8d3a2416.jpg">](https://www.instagram.com/ramadh20?r=nametag)
 
 
-## Quotes: 
-#####     "Banyaknya penilaian Yang Salah mata manusia, Terkadang itu bisa membuat cerminan kepada dirinya sendiri, Terbukti bahwa yang berbicara, dia yang lernah merasakan."
+
 ### Stats:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ramadhani892&hide=contribs,prs&show_icons=true&hide_border=true&title_color=002" />
