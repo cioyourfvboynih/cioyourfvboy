@@ -21,8 +21,7 @@
 
 
 ## Quotes: 
-###      "Mulut, Belom pernah di sumpel pake kontol itu, Lemes nya Na'udzubillah Wkwkwk, Gatau apa apa, Tapi Sok mengetahui Semuanya."
-
+#####     "Banyaknya penilaian Yang Salah mata manusia, Terkadang itu bisa membuat cerminan kepada dirinya sendiri, Terbukti bahwa yang berbicara, dia yang lernah merasakan."
 ### Stats:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ramadhani892&hide=contribs,prs&show_icons=true&hide_border=true&title_color=002" />
