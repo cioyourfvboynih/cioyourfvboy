@@ -1,4 +1,4 @@
-# Hallo👋 , Nama Saya Ramadhani || Ram!
+# Hallo👋 , Nama Saya Ramadhani || LANDAK 🦔!
 
 # Umur saya 19 tahun, Asal Jakarta.
 
