@@ -4,7 +4,7 @@
 
 # My Telegram:
 
-[<img src="https://media0.giphy.com/media/ya4eevXU490Iw/giphy.gif">](https://t.me/maafgausahsokap)
+[<img src="https://media0.giphy.com/media/ya4eevXU490Iw/giphy.gif">](https://t.me/merdhni)
 
 ## MY REPO USERBOT:
 
