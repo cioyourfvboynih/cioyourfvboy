@@ -1,30 +1,27 @@
-# Hallo👋 , Nama Saya Arman || 🌟KARMAN🌟!
+# Hallo👋 , Nama Saya Arman 
 
-# Umur saya 19 tahun, Asal Medan.
 
-# My Telegram:
-
-[<img src="https://media0.giphy.com/media/ya4eevXU490Iw/giphy.gif">](https://t.me/PakkPoll)
-
-## MY REPO USERBOT:
-
-[<img src="https://media0.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif">](https://github.com/ArmanGG01/KARMAN-USERBOT)
-
-## GROUP SUPPORT:
+## 𝐆𝐑𝐎𝐔𝐏 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 & 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 :
 
 <a href="https://t.me/obrolansuar" target="blank"><img src="https://img.shields.io/badge/OBROLAN-SUAR-green?style=flat&logo=telegram" /></a>
-<a href="https://t.me/geezsupportgroup" target="blank"><img src="https://img.shields.io/badge/GEEZ-SUPPORT GROUP-black?style=flat&logo=telegram" /></a>
 
-# My instagram:
-
-[<img src="https://telegra.ph/file/81b0f56bcec601adc8b56.jpg">](https://www.instagram.com/arman_nasution123?r=nametag)
+<a href="https://t.me/DeployBot01" target="blank"><img src="https://img.shields.io/badge/Deploy-Bot01 Channel-black?style=flat&logo=telegram" /></a>
 
 
-
-### Stats:
+### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> sᴛᴀᴛs:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ArmanGG01&hide=contribs,prs&show_icons=true&hide_border=true&title_color=002" />
 </p>
+<a href="https://www.gambaranimasi.org/cat-bintang-280.htm"><img src="https://www.gambaranimasi.org/data/media/280/animasi-bergerak-bintang-0157.gif" border="0" alt="animasi-bergerak-bintang-0157" /></a>
+    <p align="center"> 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ᴍʏ sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ
+<p>
+    <a href="https://facebook.com/arman.muliasyah.10" target="blank"><img src="https://img.icons8.com/nolan/55/facebook-new.png" /></a>
+    <a href="https://t.me/PakkPoll" target="blank"><img src="https://img.icons8.com/nolan/55/telegram-app.png" /></a>
+    <a href="https://instagram.com/arman_nasution123" target="blank"><img src="https://img.icons8.com/nolan/55/instagram-new.png" /></a>
+<a href="https://www.gambaranimasi.org/cat-bintang-280.htm"><img src="https://www.gambaranimasi.org/data/media/280/animasi-bergerak-bintang-0157.gif" border="0" alt="animasi-bergerak-bintang-0157" /></a>
+    <p align="center"> 
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
