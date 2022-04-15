@@ -1,13 +1,6 @@
 # Hallo👋 , Nama Saya Arman 
 
 
-## 𝐆𝐑𝐎𝐔𝐏 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 & 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 :
-
-<a href="https://t.me/obrolansuar" target="blank"><img src="https://img.shields.io/badge/OBROLAN-SUAR-green?style=flat&logo=telegram" /></a>
-
-<a href="https://t.me/DeployBot01" target="blank"><img src="https://img.shields.io/badge/Deploy-Bot01 Channel-black?style=flat&logo=telegram" /></a>
-
-
 ### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> sᴛᴀᴛs:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=ArmanGG01&hide=contribs,prs&show_icons=true&hide_border=true&title_color=002" />
