@@ -13,7 +13,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=ArmanGG01&hide=contribs,prs&show_icons=true&hide_border=true&title_color=002" />
 </p>
 <a href="https://www.gambaranimasi.org/cat-bintang-280.htm"><img src="https://www.gambaranimasi.org/data/media/280/animasi-bergerak-bintang-0157.gif" border="0" alt="animasi-bergerak-bintang-0157" /></a>
-    <p align="center"> 
+    <p align="center">
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> ᴍʏ sᴏᴄɪᴀʟ ᴍᴇᴅɪᴀ
 <p>
