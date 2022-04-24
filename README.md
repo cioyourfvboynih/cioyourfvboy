@@ -1,9 +1,8 @@
 # Hallo👋 , Nama Saya Shiro
 
 
-### <img src="https://media.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif" width="50"> sᴛᴀᴛs:
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=ReyyNada&hide=contribs,prs&show_icons=true&hide_border=true&title_color=002" />
+###Statistik
+<p align="center"><a href="https://github.com/ReyyNada"><img src="https://github-readme-stats.vercel.app/api?username=ReyyNada&show_icons=true&theme=radical"></a></p>
 
 
 ## ❤️Follow Me :
