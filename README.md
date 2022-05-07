@@ -2,7 +2,7 @@
 - **Nama**  : `dappa`
 - **Status**: `pengacara`
 - **Umur**  : `19`
-- **Fav**   : `henntai`
+- **Fav**   : `hentai`
 - **Asal**  : `Jawa timur/Tulungagung`
 
 ### Skills
