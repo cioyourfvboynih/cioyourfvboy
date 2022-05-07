@@ -3,7 +3,7 @@
 - **Status**: `pengacara`
 - **Umur**  : `19`
 - **Fav**   : `hentai`
-- **Asal**  : `Jawa timur/Tulungagung`
+- **Askot**  : `Jawa timur/Tulungagung`
 
 ### Skills
 - Tidur (100%)
