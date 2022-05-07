@@ -1,5 +1,15 @@
-### Hallo👋 , Nama Saya Dappa
+### About me
+- **Nama**  : `dappa`
+- **Status**: `pengacara`
+- **Umur**  : `19`
+- **Fav**   : `henntai`
+- **Asal**  : `Jawa timur/Tulungagung`
 
+### Skills
+- Tidur (100%)
+- Makan (100%)
+- Sange (100000%)
+- Belajar kode (-100%)
 
 ### Statistik
 <p align="center"><a href="https://github.com/ReyyNada"><img src="https://github-readme-stats.vercel.app/api?username=ReyyNada&show_icons=true&theme=radical"></a></p>
