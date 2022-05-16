@@ -12,7 +12,7 @@
 - Belajar kode (-100%)
 
 ### Statistik
-<p align="center"><a href="https://github.com/cioyourfvboynih"><img src="https://github-readme-stats.vercel.app/api?username=cioyourfvboy&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/cioyourfvboynih"><img src="https://github-readme-stats.vercel.app/api?username=cioyourfvboynih&show_icons=true&theme=radical"></a></p>
 
 
 ### Follow Me💥 :
@@ -28,13 +28,13 @@
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=cioyourfvboy)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=cioyourfvboynih)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/cioyourfvboy?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/cioyourfvboynih?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details>
